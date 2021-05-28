@@ -4,7 +4,7 @@ Hi, my name is Andrea and I am a PhD student in Control Systems Engineering at U
 
 ---
 
-In this page you will find all kind of projects: BSc/MSc courseworks, PhD articles and side projects. I am gradually updating the repositories, but it will take some time (_sigh_).
+This page is a collection of: BSc/MSc courseworks, PhD articles and side projects. I am gradually updating the repositories, but it will take some time (_sigh_).
 
 ---
 
