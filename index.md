@@ -13,10 +13,10 @@ This page is a collection of: BSc/MSc courseworks, PhD articles and side project
 * [Optimization Methods for Big Data](https://github.com/igng/PBH): compute the minimum of the Lennard-Jones potential (LJ-potential) using the Population Basin Hopping (PBH) algorithm [AMPL]
 
 ### PhD articles:
+* [Nash Equilibria for scalar LQ games: iterative and data-driven algorithms](https://ieeexplore.ieee.org/document/9993281) | Data-driven iterative algorithms to compute Feedback Nash Equilibrium (F-NE) strategies for infinite-horizon scalar LQ dynamic games. (2022)
+* [A data-driven approach to distributed modal consensus and synchronization](https://ieeexplore.ieee.org/document/9992981) | Data-driven control design strategy to solve the "modal consensus" and the "output synchronization" problems in a network of LTI systems. (2022)
 * [Modal Consensus of Single Integrators With Minimal “Disagreement Interaction” via Distributed Endogenous Internal Model
-](https://ieeexplore.ieee.org/document/9125970) | Control design strategy that minimizes a detrimental exchange of information in a "modal consensus of a network of agents" problem, based on the notion of "Distributed Endogenous Internal Model".
-* [A data-driven approach to distributed modal consensus and synchronization](https://ieeexplore.ieee.org/document/9992981) | Data-driven control design strategy to solve the "modal consensus" and the "output synchronization" problems in a network of LTI systems.
-* [Nash Equilibria for scalar LQ games: iterative and data-driven algorithms](https://ieeexplore.ieee.org/document/9993281) | Data-driven iterative algorithms to compute Feedback Nash Equilibrium (F-NE) strategies for infinite-horizon scalar LQ dynamic games.
+](https://ieeexplore.ieee.org/document/9125970) | Control design strategy that minimizes a detrimental exchange of information in a "modal consensus of a network of agents" problem, based on the notion of "Distributed Endogenous Internal Model". (2020)
 
 ### Side projects
 * [Rastroberry](https://github.com/igng/Rastroberry): using a Raspberry Pi3, an Arduino Micro, an IMU and stepper-motors to automatically track a celestial body with a Skywatcher 130/90 (work in progress)
