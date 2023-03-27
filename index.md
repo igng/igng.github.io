@@ -16,6 +16,7 @@ This page is a collection of: BSc/MSc courseworks, PhD articles and side project
 * [Modal Consensus of Single Integrators With Minimal “Disagreement Interaction” via Distributed Endogenous Internal Model
 ](https://ieeexplore.ieee.org/document/9125970) | Control design strategy that minimizes a detrimental exchange of information in a "modal consensus of a network of agents" problem, based on the notion of "Distributed Endogenous Internal Model". (missing repository)
 * [A data-driven approach to distributed modal consensus and synchronization](https://ieeexplore.ieee.org/document/9992981) | Data-driven control design strategy to solve the "modal consensus" and the "output synchronization" problems in a network of LTI systems. (missing repository)
+* [Nash Equilibria for scalar LQ games: iterative and data-driven algorithms](https://ieeexplore.ieee.org/document/9993281) | Data-driven iterative algorithms to compute Feedback Nash Equilibrium (F-NE) strategies for infinite-horizon scalar LQ dynamic games.
 
 ### Side projects
 * [Rastroberry](https://github.com/igng/Rastroberry): using a Raspberry Pi3, an Arduino Micro, an IMU and stepper-motors to automatically track a celestial body with a Skywatcher 130/90 (work in progress)
