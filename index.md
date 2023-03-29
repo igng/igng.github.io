@@ -1,4 +1,4 @@
-Hello, my name is Andrea and I am a PhD student in Control Systems Engineering at University of "Tor Vergata", Rome. My research interests are: _optimal control, distributed control_ and _dynamic games_.
+Hello, my name is Andrea and I am a PhD student in Control Systems Engineering at University of Rome "Tor Vergata". My research interests are: _optimal control, distributed control_ and _dynamic games_.
 
 ---
 
